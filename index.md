@@ -20,8 +20,8 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: How might humans use machines that can think and learn to make the world
-    more fair?
+  headline: "<strong>How might humans use machines that can think and learn to make
+    the world more fair?</strong>"
   content: ''
   cta:
     enabled: true
