@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: 
 # Site Settings
 locale                   : "en-US"
 title                    : "Machines for Progress"
