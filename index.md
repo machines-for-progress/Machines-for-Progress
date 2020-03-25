@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2020-03-24 07:00:00 +0000
+date: 2020-03-24T07:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -22,11 +22,10 @@ page_sections:
   block: hero-2
   headline: How might humans use machines that can think and learn to make the world
     more fair?
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: ''
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: https://github.com/machines-for-progress/Machines-for-Progress
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
